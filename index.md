@@ -12,10 +12,3 @@ layout: default
 
  - D
 
-<br>
-
- - F
-
-<br>
-
- - Q
