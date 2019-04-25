@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
-
+ - {% include 03-links.md %}
+ 
 <br>
 
-{% include 02-image.md %}
-
+ - {% include 04-lists.md %}
+ 
 <br>
 
-{% include 03-links.md %}
-
+ - {% include 05-emphasis.md %}
+ 
