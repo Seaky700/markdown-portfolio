@@ -10,12 +10,12 @@ layout: default
 
 <br>
 
- -[ ] {% include 03-links.md %}
+ * {% include 03-links.md %}
 
 <br>
 
- -[] {% include 04-lists.md %}
+ - {% include 04-lists.md %}
 
 <br>
 
- -[] {% include 05-emphasis.md %}
+ - {% include 05-emphasis.md %}
