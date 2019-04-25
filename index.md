@@ -2,16 +2,13 @@
 layout: default
 ---
 
- - A
- - B
-
-<br>
-
- - S
+{% include 03-links.md %}
  - H
-
 <br>
 
- - D
- - J
+{% include 04-lists.md %}
+ - A
+<br>
 
+{% include 05-emphasis.md %}
+ - B
