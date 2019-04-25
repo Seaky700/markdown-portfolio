@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
- * D
+ - D
 
 <br>
 
